@@ -1,0 +1,11 @@
+data,tipo,descricao,valor
+2025-06-01,Saída,Aluguel,-1200
+2025-06-02,Entrada,Salário,3000
+2025-06-03,Saída,Supermercado,-350
+2025-06-05,Saída,Internet,-100
+2025-06-10,Saída,Uber,-60
+2025-06-11,Entrada,Freelancer,500
+2025-06-12,Saída,Café,-20
+2025-06-15,Saída,Streaming,-35
+2025-06-20,Entrada,PIX recebido,200
+2025-06-21,Saída,Lazer,-150
